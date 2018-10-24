@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## 欢迎光临杨炳蛟的GitHub博客
 
-You can use the [editor on GitHub](https://github.com/YangBingjiao/YangBingjiao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YangBingjiao/YangBingjiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这是我自己搭建的技术博客地址，之前有一个和最好的朋友`Chris`共用了三四年的博客 [nohup](http://www.nohup.cc/)仍然在用。那个博客主要记录之前我俩一起做生物信息学研究的心得，包括生物信息的和计算机科学的。2017年10月我拿到了澳大利亚莫纳什大学的全奖PhD offer，纠结了好久，2018年4月最后决定放弃读博机会来到北京闪银科技有限公司做互联网金融风控方向的数据挖掘和机器学习。`Chris`是我多年的好友，也是我从ME自学转行CS路上的导师，不能和他一起继续做科研，我很遗憾和羞愧。但是人各有志，希望他一个人在生物信息学的科研道路上越走越高，也希望我在互联网金融行业有所建树。之前的博客上面的部分文章，我会逐步转移到这里。
